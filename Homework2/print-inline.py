@@ -1,2 +1,5 @@
 for i in range(10):
-    print("shitfuck", end =" ")
+    for i in range(10):
+        print("*", end ="")
+        print("x", end ="")
+    print(" ")
