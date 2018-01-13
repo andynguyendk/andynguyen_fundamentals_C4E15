@@ -1,0 +1,4 @@
+1) type(your_variable)
+2) - starting with number: 	1234567dwarves
+   - containing illegal sign: 	s#xwithkids
+   - python keywords: 		finally (done)
