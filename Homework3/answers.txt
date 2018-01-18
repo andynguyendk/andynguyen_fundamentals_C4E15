@@ -1,0 +1,12 @@
+1. What are the main functional differences between a while and a for?
+	- for has defined number of rep
+	- while can run infinitely
+2. What’s the difference between break and continue?
+	- break breaks the loop
+	- continue skips that particular iteration & begins the next iteration
+3. When is a loop’s else clause executed?
+	- when it exits successfully
+4. How can you code a counter-based loop in Python?
+	- use a counter var
+5. What can a range be used for in a for loop?
+	- a number, a set, or a function
