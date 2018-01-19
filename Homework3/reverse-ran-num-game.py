@@ -9,10 +9,10 @@ while True:
     if ans == "c":
         print("I knew it!")
         break
-    elif ans == "s":
+    elif ans == "g":
         maX = (maX+miN)//2
         continue
-    elif ans == "g":
+    elif ans == "s":
         miN = (maX+miN)//2
         continue
     else:
