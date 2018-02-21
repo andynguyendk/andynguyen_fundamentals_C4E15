@@ -15,7 +15,7 @@ msg = Message('Sick leave', to='C4E.201708@gmail.com', html=html_content,) #atta
 
 while True:
     ts = time.localtime()
-    if ts<= 7:
+    if ts <= 7:
         sleep(7200)
     else:
         gmail.send(msg)
