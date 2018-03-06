@@ -1,0 +1,23 @@
+h1 {
+  color: #2a70b7;
+  text-align: center;
+  /* font-family: 'Slabo 27px', serif; */
+
+
+}
+
+h2 {
+  color: red;
+  text-align: left;
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
+}
+
+#hello-tag {
+  color: green;
+}
+
+.text-blue {
+  color: blue;
+
+}

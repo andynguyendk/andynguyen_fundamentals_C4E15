@@ -1,0 +1,72 @@
+h3 {
+  color: red;
+  font-family: 'Pacifico', cursive;
+}
+
+h1 {
+  text-transform: capitalize;
+  font-size: 40;
+  font-family: 'Pacifico', cursive;
+}
+
+h4 {
+  color: black;
+  font-weight: bold;
+}
+
+.date {
+  font-weight: lighter;
+  font-size: 12px;
+}
+
+.text-bold {
+  font-weight: bolder;
+
+}
+
+.h-500px {
+  height: 600px
+}
+
+.bg-green {
+  background: green;
+}
+
+.h-50px {
+  height: 50px;
+
+}
+
+.w-200px {
+  width: 200px;
+}
+
+.bg-girl {
+  background-image: url("https://images.pexels.com/photos/160699/girl-dandelion-yellow-flowers-160699.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+  background-size: contain;
+  background-attachment: fixed;
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.border-red {
+  border: 5px dashed red;
+}
+
+#box-model {
+  padding: 5px 10px 15px 20px;
+}
+
+#margin-element {
+  margin: 5px 10px 15px 20px;
+}
