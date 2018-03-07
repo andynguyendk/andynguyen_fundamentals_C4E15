@@ -13,5 +13,9 @@ def aboutme():
 def school():
     return redirect('http://techkids.vn', code=302, Response=None)
 
+@app.route('/bmi/<weight>/<height>')
+def bmi(weight, height):
+
+
 if __name__ == '__main__':
     app.run(debug=True)
