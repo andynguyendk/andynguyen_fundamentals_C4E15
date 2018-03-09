@@ -12,6 +12,10 @@ div h2 {
 
 }
 
+div h5 {
+  color: red;
+}
+
 #home {
   text-align: center;
   color:black;
