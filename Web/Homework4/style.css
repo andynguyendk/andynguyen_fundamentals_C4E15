@@ -48,3 +48,9 @@ div h2 {
   float: right;
   border:1px solid white;
 }
+
+.a-date {
+  font-size: 12px;
+  font-weight: bolder;
+
+}
